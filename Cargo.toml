@@ -1,0 +1,6 @@
+[package]
+name = "mystery"
+version = "0.1.0"
+authors = ["Jeff Panici <jeff.panici@panici-software.com>"]
+
+[dependencies]
